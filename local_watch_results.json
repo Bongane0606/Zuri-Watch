@@ -1,0 +1,142 @@
+{
+  "clean (no attack)": {
+    "zuri_guard_f1": 0.7787,
+    "with_local_watch_f1": 0.7787,
+    "attacker_fakes_report_f1": 0.7787,
+    "attackers_caught": "0/0",
+    "false_alarms": 0,
+    "round_caught_per_seed": [
+      null,
+      null,
+      null,
+      null,
+      null
+    ]
+  },
+  "scale x15, bank 1 (official)": {
+    "zuri_guard_f1": 0.7639,
+    "with_local_watch_f1": 0.7639,
+    "attacker_fakes_report_f1": 0.7639,
+    "attackers_caught": "5/5",
+    "false_alarms": 0,
+    "round_caught_per_seed": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  "scale x3, bank 1 (stealthy)": {
+    "zuri_guard_f1": 0.7617,
+    "with_local_watch_f1": 0.7639,
+    "attacker_fakes_report_f1": 0.7617,
+    "attackers_caught": "5/5",
+    "false_alarms": 0,
+    "round_caught_per_seed": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  "label flip only, bank 1": {
+    "zuri_guard_f1": 0.7215,
+    "with_local_watch_f1": 0.7639,
+    "attacker_fakes_report_f1": 0.7215,
+    "attackers_caught": "5/5",
+    "false_alarms": 0,
+    "round_caught_per_seed": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  "label flip only, bank 2": {
+    "zuri_guard_f1": 0.7856,
+    "with_local_watch_f1": 0.7828,
+    "attacker_fakes_report_f1": 0.7856,
+    "attackers_caught": "5/5",
+    "false_alarms": 0,
+    "round_caught_per_seed": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  "label flip only, bank 4": {
+    "zuri_guard_f1": 0.8046,
+    "with_local_watch_f1": 0.7912,
+    "attacker_fakes_report_f1": 0.8046,
+    "attackers_caught": "5/5",
+    "false_alarms": 0,
+    "round_caught_per_seed": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  "label flip only, banks 1 and 3": {
+    "zuri_guard_f1": 0.7793,
+    "with_local_watch_f1": 0.774,
+    "attacker_fakes_report_f1": 0.7793,
+    "attackers_caught": "10/10",
+    "false_alarms": 0,
+    "round_caught_per_seed": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  "scale x15, banks 1 and 3": {
+    "zuri_guard_f1": 0.774,
+    "with_local_watch_f1": 0.774,
+    "attacker_fakes_report_f1": 0.774,
+    "attackers_caught": "10/10",
+    "false_alarms": 0,
+    "round_caught_per_seed": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  "scale x15, bank 1 from round 4": {
+    "zuri_guard_f1": 0.7642,
+    "with_local_watch_f1": 0.7642,
+    "attacker_fakes_report_f1": 0.7642,
+    "attackers_caught": "5/5",
+    "false_alarms": 0,
+    "round_caught_per_seed": [
+      4,
+      4,
+      4,
+      4,
+      4
+    ]
+  },
+  "label flip, bank 1 from round 4": {
+    "zuri_guard_f1": 0.7294,
+    "with_local_watch_f1": 0.7642,
+    "attacker_fakes_report_f1": 0.7294,
+    "attackers_caught": "5/5",
+    "false_alarms": 0,
+    "round_caught_per_seed": [
+      4,
+      4,
+      4,
+      4,
+      4
+    ]
+  }
+}
